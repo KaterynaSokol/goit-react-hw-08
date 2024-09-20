@@ -1,0 +1,23 @@
+.contactsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: #00609c;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.5;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.text {
+  color: #ed3221;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+  padding: 10px;
+}

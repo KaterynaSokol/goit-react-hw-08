@@ -1,0 +1,17 @@
+.navLink {
+  color: #00609c;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.5;
+  padding: 10px;
+}
+
+.active {
+  color: #fff;
+}
+
+.authWrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}

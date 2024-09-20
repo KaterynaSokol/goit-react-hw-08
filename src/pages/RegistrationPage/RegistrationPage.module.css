@@ -1,0 +1,25 @@
+.title {
+  color: #00609c;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 1.5;
+  padding: 10px;
+  text-align: center;
+}
+
+.errorText {
+  color: #ed3221;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+  padding: 10px;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}

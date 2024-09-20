@@ -1,0 +1,15 @@
+.title {
+  color: #00609c;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.5;
+  padding: 15px;
+}
+
+.goBackBtn {
+  color: #00609c;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.5;
+  padding: 15px;
+}

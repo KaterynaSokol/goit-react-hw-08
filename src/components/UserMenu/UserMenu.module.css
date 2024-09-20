@@ -1,0 +1,25 @@
+.text {
+  color: #00609c;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.5;
+  padding: 10px;
+}
+
+.userMenuWrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.logoutBtn {
+  border: none;
+  background-color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px 10px;
+  color: #00609c;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.5;
+}
